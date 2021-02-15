@@ -1,9 +1,11 @@
 ---
-title: "Untitled"
+title: "Coolest DEMO EVER"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
     vertical_layout: fill
+    social: menu
+    source_code: https://kmudiam.github.io/dashboard_demo/
 ---
 
 ```{r setup, include=FALSE}
